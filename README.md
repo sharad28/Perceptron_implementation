@@ -13,5 +13,13 @@ conda create --prefix ./env python=3.7 -y
 ```buildoutcfg
 conda activate ./env
 
-
+```
+## Create folder
+```buildoutcfg
+mkdir Research_env
+```
+## Create jupyter 
+```buildoutcfg
+jupyter-notebook.
+exe
 ```
