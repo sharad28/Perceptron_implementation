@@ -20,6 +20,5 @@ mkdir Research_env
 ```
 ## Create jupyter 
 ```buildoutcfg
-jupyter-notebook.
-exe
+jupyter-notebook.exe
 ```
